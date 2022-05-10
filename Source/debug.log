@@ -1,0 +1,2 @@
+[0426/161905.507:ERROR:registration_protocol_win.cc(106)] CreateFile: 지정된 파일을 찾을 수 없습니다. (0x2)
+[0426/170007.764:ERROR:registration_protocol_win.cc(106)] CreateFile: 지정된 파일을 찾을 수 없습니다. (0x2)
